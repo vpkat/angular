@@ -1,1 +1,2 @@
-console.log("Hi I am here")
+console.log(hi);
+console.log(hlo);
